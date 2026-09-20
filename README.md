@@ -1,5 +1,8 @@
 # Fraud Detection Project
 
+**Status:** Complete ML case study · **Deployment:** Not required for current scope · **API:** None  
+See [PROJECT_STATUS.md](PROJECT_STATUS.md) for the current truth, portfolio role, and next steps.
+
 ## Project Overview
 
 This project builds a machine learning pipeline for detecting fraudulent credit card transactions. The goal is to explore a highly imbalanced fraud dataset, prepare it for modeling, and compare baseline machine learning models for fraud detection performance.
